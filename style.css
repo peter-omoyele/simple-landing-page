@@ -48,7 +48,6 @@ main {
     }
 
     .form {
-        border: 1px solid;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -73,7 +72,6 @@ main {
 
    .form-again {
        display: flex;
-       border: 2px solid;
        align-items: center;
    }
 
